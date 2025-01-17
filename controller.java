@@ -15,3 +15,4 @@ public class SearchController {
         return searchEngine.search(query);
     }
 }
+
